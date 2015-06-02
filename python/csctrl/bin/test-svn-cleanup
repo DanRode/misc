@@ -1,0 +1,5 @@
+rm -rf /home/drode/conf/* /home/drode/conf/.svn
+svn co https://subversion.ops.ag.com/repos/cs/fs/branches/apu/conf -r 59550 /home/drode/conf
+cd /home/drode/tomcat-base/cardstore
+tar xf webapps.tar
+tar xf work.tar

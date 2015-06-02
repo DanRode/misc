@@ -1,0 +1,23 @@
+csctrl.py functional requirements
+read / parse csctrl config file
+read / parse stage and prod release config file (from svn url an local)
+
+retun list of init scripts (gettomcats)
+
+check state of local svn checkout target and 
+report on the svn sate versus the state desired by the config (showconfig)
+perform a checkout, switch or update as needed (deploy)
+
+
+get file from a local path or url
+rsync a directory of files from one local path to another
+
+Deploy war file 
+    remove old war file and exploded deployment
+    clear tomcat cache
+    copy new war file into place
+
+
+
+
+

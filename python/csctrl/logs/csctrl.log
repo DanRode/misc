@@ -1,0 +1,368 @@
+[Nov 12 2012 13:41:11] Staring in deploy mode
+[Nov 12 2012 13:41:11] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:41:11] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:41:11] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:41:11] SVN target dir: /home/drode/content
+[Nov 12 2012 13:41:11] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:41:11] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:41:11] /home/drode/conf is up to date
+[Nov 12 2012 13:41:11] /home/drode/content is up to date
+[Nov 12 2012 13:41:11] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:41:11] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:41:11] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:41:57] Staring in deploy mode
+[Nov 12 2012 13:41:57] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:41:57] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:41:57] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:41:57] SVN target dir: /home/drode/content
+[Nov 12 2012 13:41:57] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:41:57] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:41:57] /home/drode/conf is up to date
+[Nov 12 2012 13:41:57] /home/drode/content is up to date
+[Nov 12 2012 13:41:57] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:41:57] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:41:57] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:42:38] Staring in deploy mode
+[Nov 12 2012 13:42:38] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:42:38] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:42:38] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:42:38] SVN target dir: /home/drode/content
+[Nov 12 2012 13:42:38] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:42:38] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:42:38] /home/drode/conf is up to date
+[Nov 12 2012 13:42:38] /home/drode/content is up to date
+[Nov 12 2012 13:42:38] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:42:38] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:42:38] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:43:04] Staring in deploy mode
+[Nov 12 2012 13:43:04] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:43:04] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:43:04] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:43:04] SVN target dir: /home/drode/content
+[Nov 12 2012 13:43:04] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:43:04] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:43:04] /home/drode/conf is up to date
+[Nov 12 2012 13:43:04] /home/drode/content is up to date
+[Nov 12 2012 13:43:04] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:43:04] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:43:04] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:43:16] Staring in deploy mode
+[Nov 12 2012 13:43:16] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:43:16] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:43:16] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:43:16] SVN target dir: /home/drode/content
+[Nov 12 2012 13:43:16] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:43:16] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:43:16] /home/drode/conf is up to date
+[Nov 12 2012 13:43:16] /home/drode/content is up to date
+[Nov 12 2012 13:43:16] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:43:16] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:43:16] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:43:38] Staring in deploy mode
+[Nov 12 2012 13:43:38] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:43:38] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:43:38] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:43:38] SVN target dir: /home/drode/content
+[Nov 12 2012 13:43:38] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:43:38] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:43:38] /home/drode/conf is up to date
+[Nov 12 2012 13:43:38] /home/drode/content is up to date
+[Nov 12 2012 13:43:38] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:43:38] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:43:38] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:45:05] Staring in deploy mode
+[Nov 12 2012 13:45:05] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:45:05] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:45:05] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:45:05] SVN target dir: /home/drode/content
+[Nov 12 2012 13:45:05] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:45:05] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:45:05] /home/drode/conf is up to date
+[Nov 12 2012 13:45:05] /home/drode/content is up to date
+[Nov 12 2012 13:45:05] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:45:05] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:45:05] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:46:17] Staring in deploy mode
+[Nov 12 2012 13:46:17] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:46:17] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:46:17] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:46:17] SVN target dir: /home/drode/content
+[Nov 12 2012 13:46:17] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:46:17] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:46:17] /home/drode/conf is up to date
+[Nov 12 2012 13:46:17] /home/drode/content is up to date
+[Nov 12 2012 13:46:17] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:46:17] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:46:17] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:48:50] Staring in deploy mode
+[Nov 12 2012 13:48:50] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:48:50] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:48:50] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:48:50] SVN target dir: /home/drode/content
+[Nov 12 2012 13:48:50] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:48:50] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:48:50] /home/drode/conf is up to date
+[Nov 12 2012 13:48:50] /home/drode/content is up to date
+[Nov 12 2012 13:48:50] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:48:50] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:48:50] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:54:39] Staring in deploy mode
+[Nov 12 2012 13:54:39] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:54:39] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:54:39] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:54:39] SVN target dir: /home/drode/content
+[Nov 12 2012 13:54:39] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:54:39] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:54:39] /home/drode/conf is up to date
+[Nov 12 2012 13:54:39] /home/drode/content is up to date
+[Nov 12 2012 13:54:39] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:54:39] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:54:39] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:54:57] Staring in deploy mode
+[Nov 12 2012 13:54:57] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:54:57] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:54:57] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:54:57] SVN target dir: /home/drode/content
+[Nov 12 2012 13:54:57] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:54:57] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:54:57] /home/drode/conf is up to date
+[Nov 12 2012 13:54:57] /home/drode/content is up to date
+[Nov 12 2012 13:54:57] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:54:57] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:54:57] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 13:57:32] Staring in deploy mode
+[Nov 12 2012 13:57:32] SVN target dir: /home/drode/conf
+[Nov 12 2012 13:57:32] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:57:32] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 13:57:32] SVN target dir: /home/drode/content
+[Nov 12 2012 13:57:32] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:57:32] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 13:57:32] /home/drode/conf is up to date
+[Nov 12 2012 13:57:32] /home/drode/content is up to date
+[Nov 12 2012 13:57:32] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 13:57:32] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 13:57:32] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:01:59] Staring in deploy mode
+[Nov 12 2012 14:01:59] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:01:59] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:01:59] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:01:59] SVN target dir: /home/drode/content
+[Nov 12 2012 14:01:59] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:01:59] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:01:59] /home/drode/conf is up to date
+[Nov 12 2012 14:01:59] /home/drode/content is up to date
+[Nov 12 2012 14:01:59] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:01:59] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:01:59] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:02:13] Staring in deploy mode
+[Nov 12 2012 14:02:13] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:02:13] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:02:13] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:02:13] SVN target dir: /home/drode/content
+[Nov 12 2012 14:02:13] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:02:13] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:02:13] /home/drode/conf is up to date
+[Nov 12 2012 14:02:13] /home/drode/content is up to date
+[Nov 12 2012 14:02:13] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:02:13] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:02:13] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:02:22] Staring in deploy mode
+[Nov 12 2012 14:02:22] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:02:22] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:02:22] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:02:22] SVN target dir: /home/drode/content
+[Nov 12 2012 14:02:22] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:02:22] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:02:22] /home/drode/conf is up to date
+[Nov 12 2012 14:02:22] /home/drode/content is up to date
+[Nov 12 2012 14:02:22] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:02:22] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:02:22] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:03:33] Staring in deploy mode
+[Nov 12 2012 14:03:33] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:03:33] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:03:33] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:03:33] SVN target dir: /home/drode/content
+[Nov 12 2012 14:03:33] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:03:33] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:03:33] /home/drode/conf is up to date
+[Nov 12 2012 14:03:33] /home/drode/content is up to date
+[Nov 12 2012 14:03:33] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:03:33] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:03:33] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:17:10] Staring in deploy mode
+[Nov 12 2012 14:17:10] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:17:10] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:17:10] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:17:10] SVN target dir: /home/drode/content
+[Nov 12 2012 14:17:10] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:17:10] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:17:10] /home/drode/conf is up to date
+[Nov 12 2012 14:17:10] /home/drode/content is up to date
+[Nov 12 2012 14:17:10] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:17:10] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:17:10] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:17:38] Staring in deploy mode
+[Nov 12 2012 14:17:38] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:17:38] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:17:38] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:17:38] SVN target dir: /home/drode/content
+[Nov 12 2012 14:17:38] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:17:38] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:17:38] /home/drode/conf is up to date
+[Nov 12 2012 14:17:38] /home/drode/content is up to date
+[Nov 12 2012 14:17:38] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:17:38] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:17:38] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:18:50] Staring in deploy mode
+[Nov 12 2012 14:18:50] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:18:50] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:18:50] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:18:50] SVN target dir: /home/drode/content
+[Nov 12 2012 14:18:50] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:18:50] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:18:50] /home/drode/conf is up to date
+[Nov 12 2012 14:18:50] /home/drode/content is up to date
+[Nov 12 2012 14:18:50] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:18:50] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:18:50] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:19:19] Staring in deploy mode
+[Nov 12 2012 14:19:19] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:19:19] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:19:19] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:19:19] SVN target dir: /home/drode/content
+[Nov 12 2012 14:19:19] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:19:19] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:19:19] /home/drode/conf is up to date
+[Nov 12 2012 14:19:19] /home/drode/content is up to date
+[Nov 12 2012 14:19:19] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:19:19] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:19:19] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:19:34] Staring in deploy mode
+[Nov 12 2012 14:19:34] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:19:34] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:19:34] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:19:34] SVN target dir: /home/drode/content
+[Nov 12 2012 14:19:34] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:19:34] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:19:34] /home/drode/conf is up to date
+[Nov 12 2012 14:19:34] /home/drode/content is up to date
+[Nov 12 2012 14:19:34] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:19:34] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:19:34] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 14:21:28] Staring in deploy mode
+[Nov 12 2012 14:21:28] SVN target dir: /home/drode/conf
+[Nov 12 2012 14:21:28] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:21:28] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 14:21:28] SVN target dir: /home/drode/content
+[Nov 12 2012 14:21:28] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:21:28] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 14:21:28] /home/drode/conf is up to date
+[Nov 12 2012 14:21:28] /home/drode/content is up to date
+[Nov 12 2012 14:21:28] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 14:21:28] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 14:21:28] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 15:03:48] Staring in deploy mode
+[Nov 12 2012 15:03:48] SVN target dir: /home/drode/conf
+[Nov 12 2012 15:03:48] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 15:03:48] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 15:03:48] SVN target dir: /home/drode/content
+[Nov 12 2012 15:03:48] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 15:03:48] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 15:03:48] /home/drode/conf is up to date
+[Nov 12 2012 15:03:48] /home/drode/content is up to date
+[Nov 12 2012 15:03:48] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 15:03:48] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 15:03:48] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 15:03:48] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
+[Nov 12 2012 15:04:22] Staring in deploy mode
+[Nov 12 2012 15:04:22] SVN target dir: /home/drode/conf
+[Nov 12 2012 15:04:22] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 15:04:22] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 12 2012 15:04:22] SVN target dir: /home/drode/content
+[Nov 12 2012 15:04:22] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 15:04:22] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 12 2012 15:04:22] /home/drode/conf is up to date
+[Nov 12 2012 15:04:22] /home/drode/content is up to date
+[Nov 12 2012 15:04:22] Undeploying webapps and clearing tomcat cache
+[Nov 12 2012 15:04:22] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 12 2012 15:04:22] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 12 2012 15:04:23] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
+[Nov 13 2012 08:38:46] Staring in deploy mode
+[Nov 13 2012 08:38:46] SVN target dir: /home/drode/conf
+[Nov 13 2012 08:38:46] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:38:46] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:38:46] SVN target dir: /home/drode/content
+[Nov 13 2012 08:38:46] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:38:46] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:38:46] /home/drode/conf is up to date
+[Nov 13 2012 08:38:46] /home/drode/content is up to date
+[Nov 13 2012 08:38:46] Undeploying webapps and clearing tomcat cache
+[Nov 13 2012 08:38:46] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 13 2012 08:38:46] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 13 2012 08:38:47] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
+[Nov 13 2012 08:39:01] Staring in deploy mode
+[Nov 13 2012 08:39:01] SVN target dir: /home/drode/conf
+[Nov 13 2012 08:39:01] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:39:01] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:39:01] SVN target dir: /home/drode/content
+[Nov 13 2012 08:39:01] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:39:01] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:39:01] /home/drode/conf is up to date
+[Nov 13 2012 08:39:01] /home/drode/content is up to date
+[Nov 13 2012 08:39:01] Undeploying webapps and clearing tomcat cache
+[Nov 13 2012 08:39:01] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 13 2012 08:39:01] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 13 2012 08:39:01] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
+[Nov 13 2012 08:39:09] Staring in deploy mode
+[Nov 13 2012 08:39:09] SVN target dir: /home/drode/conf
+[Nov 13 2012 08:39:09] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:39:09] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:39:09] SVN target dir: /home/drode/content
+[Nov 13 2012 08:39:09] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:39:09] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:39:09] /home/drode/conf is up to date
+[Nov 13 2012 08:39:09] /home/drode/content is up to date
+[Nov 13 2012 08:39:09] Undeploying webapps and clearing tomcat cache
+[Nov 13 2012 08:39:09] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 13 2012 08:39:09] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 13 2012 08:39:09] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
+[Nov 13 2012 08:41:09] Staring in deploy mode
+[Nov 13 2012 08:41:09] SVN target dir: /home/drode/conf
+[Nov 13 2012 08:41:09] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:41:09] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:41:09] SVN target dir: /home/drode/content
+[Nov 13 2012 08:41:09] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:41:09] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:41:09] /home/drode/conf is up to date
+[Nov 13 2012 08:41:09] /home/drode/content is up to date
+[Nov 13 2012 08:41:09] Undeploying webapps and clearing tomcat cache
+[Nov 13 2012 08:41:09] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 13 2012 08:41:09] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 13 2012 08:41:09] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
+[Nov 13 2012 08:41:18] Staring in deploy mode
+[Nov 13 2012 08:41:18] SVN target dir: /home/drode/conf
+[Nov 13 2012 08:41:18] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:41:18] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:41:18] SVN target dir: /home/drode/content
+[Nov 13 2012 08:41:18] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:41:18] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:41:18] /home/drode/conf is up to date
+[Nov 13 2012 08:41:18] /home/drode/content is up to date
+[Nov 13 2012 08:41:18] Undeploying webapps and clearing tomcat cache
+[Nov 13 2012 08:41:18] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 13 2012 08:41:18] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 13 2012 08:41:18] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
+[Nov 13 2012 08:41:27] Staring in deploy mode with rollback enabled
+[Nov 13 2012 08:41:27] SVN target dir: /home/drode/conf
+[Nov 13 2012 08:41:27] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:41:27] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/conf rev 59555
+[Nov 13 2012 08:41:27] SVN target dir: /home/drode/content
+[Nov 13 2012 08:41:27] Current: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:41:27] Release: https://subversion.ops.ag.com/repos/cs/fs/tags/apu/content rev 59555
+[Nov 13 2012 08:41:27] /home/drode/conf is up to date
+[Nov 13 2012 08:41:27] /home/drode/content is up to date
+[Nov 13 2012 08:41:27] Undeploying webapps and clearing tomcat cache
+[Nov 13 2012 08:41:27] Cleaning up /home/drode/tomcat-base/cardstore/work/
+[Nov 13 2012 08:41:27] Cleaning up /home/drode/tomcat-base/cardstore/webapps/
+[Nov 13 2012 08:41:27] Running command: rsync -av --progress /fs/remote/assets/print/sites/ /fs/remote/assets/web/sites/ --exclude "health.html" --exclude "cmyk/" --exclude "*original*" --exclude "*highres*"  --exclude "*.svn*"
