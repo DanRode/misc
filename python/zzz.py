@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
-print "This is a test"
-print "This is a test from Windows"
-# This is part 2 of a merge test
-# This is part 1 of a merge test
+# This is the beginning of a new test script
+dog = "Rover"
+cat = "Morris"
+if dog == "Rover":
+  print "%s can bark" % dog
+else:
+  print "%s can meow" % cat
