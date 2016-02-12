@@ -1,0 +1,10 @@
+---
+- hosts: all
+  tasks:
+  - name: delete branch bad
+    command: git branch -D badfeature
+    args:
+      chdir: ~/git/misc
+    register: gitout
+    failed_when: gitout.rc != 0 and not gitout.stderr | search('branch.*not found')
+    changed_when: gitout.rc == 0
