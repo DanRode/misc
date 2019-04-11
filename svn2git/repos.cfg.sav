@@ -1,0 +1,22 @@
+#subversion repo url::git repo url
+http://chfvwp-subv01.mtdproducts.com/svn/Altium::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/Altium
+http://chfvwp-subv01.mtdproducts.com/svn/Commerce_Cukes::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/Commerce_Cukes
+http://chfvwp-subv01.mtdproducts.com/svn/EESG::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/EESG
+http://chfvwp-subv01.mtdproducts.com/svn/EngineeringSystems::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/EngineeringSystems
+http://chfvwp-subv01.mtdproducts.com/svn/apps::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/apps
+http://chfvwp-subv01.mtdproducts.com/svn/commerce7_wcs::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/commerce7_wcs
+http://chfvwp-subv01.mtdproducts.com/svn/hold_for_delete_commerce7::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/hold_for_delete_commerce7
+http://chfvwp-subv01.mtdproducts.com/svn/infrastructure::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/infrastructure
+http://chfvwp-subv01.mtdproducts.com/svn/middleware::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/middleware
+http://chfvwp-subv01.mtdproducts.com/svn/portal::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/portal
+http://chfvwp-subv01.mtdproducts.com/svn/telecom::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv01_migration/telecom
+https://chfvwp-subv02.mtdproducts.com/svn/CORE::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/CORE
+https://chfvwp-subv02.mtdproducts.com/svn/EAModelio::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/EAModelio
+https://chfvwp-subv02.mtdproducts.com/svn/Emissions::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/Emissions
+https://chfvwp-subv02.mtdproducts.com/svn/HighJump::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/HighJump
+https://chfvwp-subv02.mtdproducts.com/svn/TNSNames::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/TNSNames
+https://chfvwp-subv02.mtdproducts.com/svn/dealer_sfdc_atdd::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/dealer_sfdc_atdd
+https://chfvwp-subv02.mtdproducts.com/svn/esb_atdd::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/esb_atdd
+https://chfvwp-subv02.mtdproducts.com/svn/portal_atdd::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/portal_atdd
+https://chfvwp-subv02.mtdproducts.com/svn/salesforce::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/salesforce
+https://chfvwp-subv02.mtdproducts.com/svn/salesforce_atdd::mtdproducts@vs-ssh.visualstudio.com:v3/mtdproducts/Subv02_migration/salesforce_atdd
