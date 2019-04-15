@@ -1,3 +1,5 @@
 tmp/
 apps/
+svn/
+svn.tar
 *.swp
