@@ -1,5 +1,21 @@
-tmp/
-apps/
-svn/
-svn.tar
-*.swp
+**/.vscode/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+
+
+
+
+
